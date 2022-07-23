@@ -1,0 +1,13 @@
+###> JetBrains
+.idea
+.idea/*
+###< JetBrains
+
+###> Mac
+DS_STORE
+*/.DS_STORE
+###< Mac
+
+###> Docker
+database/data/*
+###< Docker
